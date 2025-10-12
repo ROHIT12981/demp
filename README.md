@@ -1,2 +1,3 @@
 # demp
-this is my first sit repositry
+this is my first sit repositry.
+author = avinash 
